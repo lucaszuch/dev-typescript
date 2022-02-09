@@ -1,5 +1,3 @@
-import { createModuleResolutionCache } from "typescript";
-
 // Guard types support the code to ensure the correct type is being passed
 type Department = {
   name: string;
