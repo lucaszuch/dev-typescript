@@ -1,1 +1,2 @@
-Basic TypeScript concepts for personal reference.
+# DEV TYPESCRIPT
+- Repository for personal reference.
